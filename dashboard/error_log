@@ -1,0 +1,600 @@
+[03-Jun-2021 12:23:48 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/xbldndhw/public_html/portal_gbtl/students/ajax_edit.php on line 103
+[03-Jun-2021 12:23:48 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/xbldndhw/public_html/portal_gbtl/students/ajax_edit.php on line 103
+[03-Jun-2021 12:24:24 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/xbldndhw/public_html/portal_gbtl/students/ajax_edit.php on line 103
+[03-Jun-2021 12:24:24 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/xbldndhw/public_html/portal_gbtl/students/ajax_edit.php on line 103
+[03-Jun-2021 12:24:35 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/xbldndhw/public_html/portal_gbtl/students/ajax_edit.php on line 103
+[03-Jun-2021 12:24:35 Asia/Kolkata] PHP Warning:  mysqli_query(): Empty query in /home/xbldndhw/public_html/portal_gbtl/students/ajax_edit.php on line 103
+[24-Mar-2022 09:48:22 UTC] PHP Warning:  include(/portal/includes/header.php): failed to open stream: No such file or directory in /home/codeseni/bhims/admin/dashboard/index.php on line 38
+[24-Mar-2022 09:48:22 UTC] PHP Warning:  include(): Failed opening '/portal/includes/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/codeseni/bhims/admin/dashboard/index.php on line 38
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 48
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 48
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 50
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 53
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 89
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 100
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 118
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 89
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 100
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 118
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 89
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 100
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 118
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 89
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 100
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 118
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 89
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 100
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 118
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 89
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 100
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 118
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 89
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 100
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 118
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 89
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 100
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 118
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 89
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 100
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 118
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 89
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 100
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 118
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 89
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 100
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 118
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 88
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 89
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 99
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 100
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: conn in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 117
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 118
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 146
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 158
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 171
+[24-Mar-2022 15:18:22 Asia/Kolkata] PHP Notice:  Undefined variable: renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 183
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 111
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 111
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 111
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 111
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 111
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 111
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 111
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 111
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 111
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 111
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 111
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 110
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 111
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Undefined variable: membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 147
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Undefined variable: booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 159
+[24-Mar-2022 15:22:13 Asia/Kolkata] PHP Notice:  Undefined variable: product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 172
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/codeseni/bhims/admin/dashboard/index.php on line 67
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 67
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 128
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 129
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 137
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 138
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 128
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 129
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 137
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 138
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 128
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 129
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 137
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 138
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 128
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 129
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 137
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 138
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 128
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 129
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 137
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 138
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 128
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 129
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 137
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 138
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 128
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 129
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 137
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 138
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 128
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 129
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 137
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 138
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 128
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 129
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 137
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 138
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 128
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 129
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 137
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 138
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 128
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 129
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 137
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 138
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 108
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 109
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 119
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 120
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 128
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 129
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 137
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 138
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Undefined variable: total_visits in /home/codeseni/bhims/admin/dashboard/index.php on line 165
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Undefined variable: num_desktops in /home/codeseni/bhims/admin/dashboard/index.php on line 177
+[24-Mar-2022 15:35:51 Asia/Kolkata] PHP Notice:  Undefined variable: num_mobiles in /home/codeseni/bhims/admin/dashboard/index.php on line 190
+[24-Mar-2022 15:36:52 Asia/Kolkata] PHP Notice:  Undefined variable: result in /home/codeseni/bhims/admin/dashboard/index.php on line 67
+[24-Mar-2022 15:36:52 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/codeseni/bhims/admin/dashboard/index.php on line 67
+[24-Mar-2022 15:36:52 Asia/Kolkata] PHP Notice:  Undefined variable: total_visits in /home/codeseni/bhims/admin/dashboard/index.php on line 166
+[24-Mar-2022 15:36:52 Asia/Kolkata] PHP Notice:  Undefined variable: num_desktops in /home/codeseni/bhims/admin/dashboard/index.php on line 178
+[24-Mar-2022 15:36:52 Asia/Kolkata] PHP Notice:  Undefined variable: num_mobiles in /home/codeseni/bhims/admin/dashboard/index.php on line 191
+[24-Mar-2022 15:36:52 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 319
+[24-Mar-2022 15:36:52 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 329
+[24-Mar-2022 15:36:52 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 339
+[24-Mar-2022 15:36:52 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 349
+[24-Mar-2022 15:39:01 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 328
+[24-Mar-2022 15:39:01 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 338
+[24-Mar-2022 15:39:01 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 348
+[24-Mar-2022 15:39:01 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 358
+[24-Mar-2022 15:39:50 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 329
+[24-Mar-2022 15:39:50 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 339
+[24-Mar-2022 15:39:50 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 349
+[24-Mar-2022 15:39:50 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 359
+[24-Mar-2022 15:43:09 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 329
+[24-Mar-2022 15:43:09 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 339
+[24-Mar-2022 15:43:09 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 349
+[24-Mar-2022 15:43:09 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 359
+[24-Mar-2022 16:00:48 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 329
+[24-Mar-2022 16:00:48 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 339
+[24-Mar-2022 16:00:48 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 349
+[24-Mar-2022 16:00:48 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 359
+[24-Mar-2022 16:01:24 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 329
+[24-Mar-2022 16:01:24 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 339
+[24-Mar-2022 16:01:24 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 349
+[24-Mar-2022 16:01:24 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 359
+[24-Mar-2022 16:02:12 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 329
+[24-Mar-2022 16:02:12 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 339
+[24-Mar-2022 16:02:12 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 349
+[24-Mar-2022 16:02:12 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 359
+[24-Mar-2022 16:06:15 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 329
+[24-Mar-2022 16:06:15 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 339
+[24-Mar-2022 16:06:15 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 349
+[24-Mar-2022 16:06:15 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 359
+[24-Mar-2022 16:08:19 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 329
+[24-Mar-2022 16:08:19 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 339
+[24-Mar-2022 16:08:19 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 349
+[24-Mar-2022 16:08:19 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 359
+[24-Mar-2022 16:29:37 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 335
+[24-Mar-2022 16:29:37 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 345
+[24-Mar-2022 16:29:37 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 355
+[24-Mar-2022 16:29:37 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 365
+[24-Mar-2022 21:55:43 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 335
+[24-Mar-2022 21:55:43 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 345
+[24-Mar-2022 21:55:43 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 355
+[24-Mar-2022 21:55:43 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 365
+[25-Mar-2022 11:44:32 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 335
+[25-Mar-2022 11:44:32 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 345
+[25-Mar-2022 11:44:32 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 355
+[25-Mar-2022 11:44:32 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 365
+[25-Mar-2022 12:47:09 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 335
+[25-Mar-2022 12:47:09 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 345
+[25-Mar-2022 12:47:09 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 355
+[25-Mar-2022 12:47:09 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 365
+[25-Mar-2022 12:48:49 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 335
+[25-Mar-2022 12:48:49 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 345
+[25-Mar-2022 12:48:49 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 355
+[25-Mar-2022 12:48:49 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 365
+[25-Mar-2022 12:49:09 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 335
+[25-Mar-2022 12:49:09 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 345
+[25-Mar-2022 12:49:09 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 355
+[25-Mar-2022 12:49:09 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 365
+[25-Mar-2022 12:49:16 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 335
+[25-Mar-2022 12:49:16 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 345
+[25-Mar-2022 12:49:16 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 355
+[25-Mar-2022 12:49:16 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 365
+[25-Mar-2022 12:49:55 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 335
+[25-Mar-2022 12:49:55 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 345
+[25-Mar-2022 12:49:55 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 355
+[25-Mar-2022 12:49:55 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 365
+[25-Mar-2022 12:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 335
+[25-Mar-2022 12:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 345
+[25-Mar-2022 12:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 355
+[25-Mar-2022 12:50:35 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 365
+[25-Mar-2022 12:52:33 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 335
+[25-Mar-2022 12:52:33 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 345
+[25-Mar-2022 12:52:33 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 355
+[25-Mar-2022 12:52:33 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 365
+[25-Mar-2022 12:53:48 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 335
+[25-Mar-2022 12:53:48 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 345
+[25-Mar-2022 12:53:48 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 355
+[25-Mar-2022 12:53:48 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 365
+[25-Mar-2022 12:54:32 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 335
+[25-Mar-2022 12:54:32 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 345
+[25-Mar-2022 12:54:32 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 355
+[25-Mar-2022 12:54:32 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 365
+[25-Mar-2022 13:19:39 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 335
+[25-Mar-2022 13:19:39 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 345
+[25-Mar-2022 13:19:39 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 355
+[25-Mar-2022 13:19:39 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 365
+[25-Mar-2022 13:24:23 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 335
+[25-Mar-2022 13:24:23 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 345
+[25-Mar-2022 13:24:23 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 355
+[25-Mar-2022 13:24:23 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 365
+[25-Mar-2022 14:06:58 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 335
+[25-Mar-2022 14:06:58 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 345
+[25-Mar-2022 14:06:58 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 355
+[25-Mar-2022 14:06:58 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 365
+[25-Mar-2022 14:23:37 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 335
+[25-Mar-2022 14:23:37 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 345
+[25-Mar-2022 14:23:37 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 355
+[25-Mar-2022 14:23:37 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 365
+[25-Mar-2022 15:27:52 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 335
+[25-Mar-2022 15:27:52 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_booking_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 345
+[25-Mar-2022 15:27:52 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_product_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 355
+[25-Mar-2022 15:27:52 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 365
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 90
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/codeseni/bhims/admin/dashboard/index.php on line 101
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 102
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 316
+[25-Mar-2022 15:47:39 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 326
+[25-Mar-2022 15:48:53 Asia/Kolkata] PHP Notice:  Undefined index: chart_count in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:48:53 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 316
+[25-Mar-2022 15:48:53 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 326
+[25-Mar-2022 15:51:41 Asia/Kolkata] PHP Notice:  Undefined index: chart_count in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:51:41 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 316
+[25-Mar-2022 15:51:41 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 326
+[25-Mar-2022 15:51:44 Asia/Kolkata] PHP Notice:  Undefined index: chart_count in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:51:44 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 316
+[25-Mar-2022 15:51:44 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 326
+[25-Mar-2022 15:52:05 Asia/Kolkata] PHP Notice:  Undefined index: chart_count in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:52:05 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 316
+[25-Mar-2022 15:52:05 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 326
+[25-Mar-2022 15:53:50 Asia/Kolkata] PHP Notice:  Undefined index: chart_count in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:53:50 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_membership_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 316
+[25-Mar-2022 15:53:50 Asia/Kolkata] PHP Notice:  Undefined variable: monthly_renewal_sales in /home/codeseni/bhims/admin/dashboard/index.php on line 326
+[25-Mar-2022 15:57:18 Asia/Kolkata] PHP Notice:  Undefined index: chart_count in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[25-Mar-2022 15:58:44 Asia/Kolkata] PHP Notice:  Undefined index: chart_count in /home/codeseni/bhims/admin/dashboard/index.php on line 91
+[02-Apr-2022 18:34:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 54
+[02-Apr-2022 18:34:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims/admin/dashboard/index.php on line 54
+[18-Apr-2022 14:50:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims.org/admin/dashboard/index.php on line 54
+[18-Apr-2022 15:01:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims.org/admin/dashboard/index.php on line 54
+[10-Jun-2022 14:38:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims.org/admin/dashboard/index.php on line 54
+[10-Jun-2022 14:38:38 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims.org/admin/dashboard/index.php on line 54
+[10-Jun-2022 14:39:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims.org/admin/dashboard/index.php on line 54
+[10-Jun-2022 14:45:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims.org/admin/dashboard/index.php on line 54
+[10-Jun-2022 14:45:42 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims.org/admin/dashboard/index.php on line 54
+[10-Jun-2022 14:45:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims.org/admin/dashboard/index.php on line 54
+[10-Jun-2022 14:46:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims.org/admin/dashboard/index.php on line 54
+[10-Jun-2022 14:46:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims.org/admin/dashboard/index.php on line 54
+[10-Jun-2022 14:46:38 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims.org/admin/dashboard/index.php on line 54
+[10-Jun-2022 15:05:17 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims.org/admin/dashboard/index.php on line 54
+[10-Jun-2022 15:05:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims.org/admin/dashboard/index.php on line 54
+[01-Nov-2022 14:00:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/codeseni/bhims.org/admin/dashboard/index.php on line 54
