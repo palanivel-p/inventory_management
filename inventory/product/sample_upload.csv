@@ -1,0 +1,4 @@
+      Add Products
+s.no,Product Name,Product Code,primary_category,sub_category,brand_type,product_cost,product_price,stock_alert,order_tax,tax_type,description,HSN / SAC Code
+1,test_product,testcode,others,sub_cat_id,brand_id,500,100,200,40,inclusive,test,10,hsn001
+
